@@ -1,2 +1,2 @@
 # Pong
-Classic Pong Game width some modern solutions and sounds.
+Classic Pong Game with some modern solutions and sounds.
